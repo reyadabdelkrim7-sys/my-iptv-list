@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CookiesKids.eg" group-title="Egypt Kids", Cookies Kids TV Egypt
+https://cookieskidstv.com
+
+#EXTINF:-1 tvg-id="Egypt.eg" group-title="Egypt Channels", Egypt IPTV
+https://github.io
